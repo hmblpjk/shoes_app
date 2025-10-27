@@ -1,0 +1,16 @@
+[
+  {
+    "id": 1,
+    "name": "FlexFit Training Shoes",
+    "price": 74.99,
+    "oldPrice": 89.99,
+    "image": "assets/images/flexfit.png",
+    "rating": 4.0,
+    "reviews": 23,
+    "isFavorite": false,
+    "category": "Men",
+    "colors": ["#FF5C5C", "#5CA0FF", "#F6D78B", "#0A2E6B", "#000000"],
+    "sizes": [39, 40, 41, 42, 43, 44],
+    "description": "Engineered for maximum performance and comfort..."
+  }
+]

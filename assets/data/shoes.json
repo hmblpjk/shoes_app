@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "FlexFit Training Shoes",
+    "price": 74.99,
+    "oldPrice": 89.99,
+    "rating": 4.0,
+    "reviews": 23,
+    "image": "assets/images/flexfit.png",
+    "description": "Engineered for maximum performance and comfort."
+  },
+  {
+    "id": 2,
+    "name": "Velocity Runners",
+    "price": 73.99,
+    "oldPrice": 89.99,
+    "rating": 3.5,
+    "reviews": 3,
+    "image": "assets/images/velocity.png",
+    "description": "Lightweight running shoes built for daily comfort."
+  }
+]
