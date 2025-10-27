@@ -130,7 +130,7 @@ cart.addToCart(shoe);
 |------|----------------|
 | NIM | 230605110079 |
 | Mata Kuliah | Mobile Programming |
-| Dosen Pengampu | _(Isi nama dosennya)_ |
+| Dosen Pengampu | A’la Syauqi, M.Kom |
 | Tahun | 2025 |
 
 ---
